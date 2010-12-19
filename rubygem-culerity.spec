@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.2.12
-Release:    1%{?dist}
+Release:    %mkrel 1
 Summary:    Integrates Cucumber and Celerity in order to test your application's full stack
 Group:      Development/Ruby
 License:    MIT
