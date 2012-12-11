@@ -59,3 +59,11 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/doc/%{oname}-%{version}
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Dec 19 2010 Rémy Clouard <shikamaru@mandriva.org> 0.2.12-1mdv2011.0
++ Revision: 623062
+- oops, fix rel
+- import rubygem-culerity
+
