@@ -6,7 +6,7 @@ Release:    2
 Summary:    Integrates Cucumber and Celerity in order to test your application's full stack
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/langalex/culerity
+URL:        https://github.com/langalex/culerity
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
